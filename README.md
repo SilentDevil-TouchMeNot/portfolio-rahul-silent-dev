@@ -1,19 +1,19 @@
-# Rahul Debnath - Interactive CV Website
+# Rahul Debnath – Portfolio
 
-Welcome to the source code for my interactive CV and Portfolio website! This project merges data science, computational neuroscience, and web development to create a unique, audio-reactive 3D experience.
+This is my personal portfolio website — a space where I bring together my work, ideas, and experiments across data science, research, and creativity.
 
-## Features
-- **3D Audio-Reactive Visualizer**: A bespoke WebGL/Three.js visualizer that responds in real-time to a dynamic playlist of ambient and classical tracks (Flute, Rudra V, Shiva Tandava, Maha S).
-- **Interactive Dashboards**: Previews of interactive data dashboards spanning HR analytics, sales, e-commerce, and music streaming data.
-- **Masonry Memory Gallery**: A curated, randomized gallery of photographs detailing my academic journey, events, and travels, featuring custom shuffle functionality and a golden representation layout.
-- **Responsive Layout**: Designed to work seamlessly across mobile, tablet, and desktop devices.
+The site is designed to be more than just a static CV. It reflects how I think and explore — combining visuals, sound, and interactive elements to create a more engaging experience.
 
-## Setup & Deployment
-This website is built with vanilla HTML, CSS, and JavaScript. No build step or framework is required.
+## What you’ll find here
+- My academic and research journey  
+- Selected projects and experiments  
+- Data visualizations and dashboards  
+- A glimpse into my interests beyond academics  
 
-To run locally:
-1. Clone the repository.
-2. Serve the directory using any local web server (e.g., `python3 -m http.server 8000`).
-3. Open `http://localhost:8000` in your browser.
+## About the project
+The website is built using simple web technologies and focuses on interaction and user experience rather than complexity.  
 
-*Note: Due to browser security policies regarding Web Audio APIs, the site must be served over a local server (not via `file://`) for the audio visualizer to function.*
+It’s an evolving space — I keep updating it as I learn, build, and explore new ideas.
+
+## Note
+For the best experience, open the site in a browser environment (not directly as a file), especially for features involving audio and interactivity.
